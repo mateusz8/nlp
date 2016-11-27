@@ -5,8 +5,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import linear_model
 from sklearn import metrics
 
-books = "C:/Users/Ola1/Desktop/nlp/books/"
-books_after_stemming = "C:/Users/Ola1/Desktop/nlp/books stem/"
+books = "books/"
+books_after_stemming = "books stem/"
 length_class = []
 countVec_min_df = 1
 svdOpt = 10

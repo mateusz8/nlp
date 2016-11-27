@@ -1,7 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de40fc22-8f74-4ef8-a152-26218504e697" name="Default" comment="" />
+    <list default="true" id="de40fc22-8f74-4ef8-a152-26218504e697" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/balucki_burmistrz_1887.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/balucki_murzyn_1875.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/balucki_przebudzeni_1864.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/beczkowska_bedzie_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/beczkowska_droga_1898.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/beczkowska_gniezdzie_1899.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/berent_diogenes_1937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/berent_kamienie_1918.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/berent_prochno_1903.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/dabrowska_nocednie1_1931.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/dabrowska_nocednie2_1932.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/dabrowska_nocednie3_1933.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/deotyma_panienka_1893.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/deotyma_rozdrozu_1877.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/deotyma_zagadka_1879.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/dmochowska_dwor_1903.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/dmochowska_obraczka_1907.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/dmochowska_odlamana_1914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/domanska_historia_1913.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/domanska_krysia_1914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/domanska_paziowie_1910.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/dygasinski_as_1896.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/dygasinski_piszczalski_1890.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/dygasinski_wilk_1883.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/godlewska_kato_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/godlewska_kwiat_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/godlewska_ninka_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/gojawiczynska_dziewczeta_1935.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/gojawiczynska_jablon_1937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/gojawiczynska_ziemia_1934.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/iwaszkiewicz_czerwone_1934.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/iwaszkiewicz_mlyn_1936.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/iwaszkiewicz_panny_1932.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kaczkowski_grob_1857.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kaczkowski_murdelio_1853.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kaczkowski_olbrachtowi_1889.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/korzeniowski_emeryt_1851.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/korzeniowski_garbaty_1853.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/korzeniowski_krewni_1856.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kossak_bog_1935.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kossak_oreza_1937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kossak_zmilosci_1925.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kraszewski_kordecki_1850.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kraszewski_lalki_1874.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kraszewski_piast_1888.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/krzemieniecka_fatum_1904.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/krzemieniecka_odejdzie_1910.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/krzemieniecka_wichry_1923.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kuncewiczowa_cudzoziemka_1936.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kuncewiczowa_ksiezyce_1933.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/kuncewiczowa_twarz_1928.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/makuszynski_basie_1937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/makuszynski_drodze_1917.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/makuszynski_szalenstwa_1940.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/marrene_bozek_1871.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/marrene_mezowie_1875.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/marrene_roza_1872.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/mniszek_gehenna_1914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/mniszek_ordynat_1910.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/mniszek_tredowata_1909.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/mostowicz_hanki_1939.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/mostowicz_kariera_1932.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/mostowicz_murek_1936.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/nalkowska_granica_1935.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/nalkowska_kobiety_1906.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/nalkowska_romans_1923.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/orzeszkowa_gloria_1910.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/orzeszkowa_meir_1878.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/orzeszkowa_niemnem_1888.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/prus_emancypantki_1894.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/prus_faraon_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/prus_lalka_1890.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/reymont_chlopi_1908.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/reymont_komediantka_1896.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/reymont_obiecana_1899.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/rodziewicz_lato_1920.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/rodziewicz_miedzy_1890.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/rodziewicz_straszny_1887.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/samozwaniec_ustach_1922.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/sienkiewicz_ogniem_1884.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/sienkiewicz_quo_1896.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/sienkiewicz_rodzina_1894.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/swietochowski_drygalowie_1914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/swietochowski_prawdy_1888.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/swietochowski_twinko_1936.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/sygietynski_calvados_1884.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/sygietynski_ogien_1918.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/sygietynski_wysadzony_1891.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zapolska_kaska_1888.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zapolska_smierc_1911.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zapolska_tagiejew_1905.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zarzycka_dzikuska_1927.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zarzycka_irka_1931.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zarzycka_wiatr_1934.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zeromski_bezdomni_1899.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zeromski_przedwiosnie_1924.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zeromski_syzyfowe_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zulawski_laus_1914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zulawski_srebrnym_1903.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books stem/zulawski_zwyciezca_1910.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/balucki_burmistrz_1887.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/balucki_murzyn_1875.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/balucki_przebudzeni_1864.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/beczkowska_bedzie_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/beczkowska_droga_1898.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/beczkowska_gniezdzie_1899.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/berent_diogenes_1937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/berent_kamienie_1918.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/berent_prochno_1903.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/dabrowska_nocednie1_1931.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/dabrowska_nocednie2_1932.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/dabrowska_nocednie3_1933.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/deotyma_panienka_1893.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/deotyma_rozdrozu_1877.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/deotyma_zagadka_1879.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/dmochowska_dwor_1903.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/dmochowska_obraczka_1907.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/dmochowska_odlamana_1914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/domanska_historia_1913.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/domanska_krysia_1914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/domanska_paziowie_1910.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/dygasinski_as_1896.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/dygasinski_piszczalski_1890.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/dygasinski_wilk_1883.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/godlewska_kato_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/godlewska_kwiat_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/godlewska_ninka_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/gojawiczynska_dziewczeta_1935.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/gojawiczynska_jablon_1937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/gojawiczynska_ziemia_1934.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/iwaszkiewicz_czerwone_1934.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/iwaszkiewicz_mlyn_1936.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/iwaszkiewicz_panny_1932.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kaczkowski_grob_1857.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kaczkowski_murdelio_1853.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kaczkowski_olbrachtowi_1889.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/korzeniowski_emeryt_1851.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/korzeniowski_garbaty_1853.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/korzeniowski_krewni_1856.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kossak_bog_1935.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kossak_oreza_1937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kossak_zmilosci_1925.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kraszewski_kordecki_1850.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kraszewski_lalki_1874.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kraszewski_piast_1888.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/krzemieniecka_fatum_1904.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/krzemieniecka_odejdzie_1910.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/krzemieniecka_wichry_1923.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kuncewiczowa_cudzoziemka_1936.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kuncewiczowa_ksiezyce_1933.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/kuncewiczowa_twarz_1928.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/makuszynski_basie_1937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/makuszynski_drodze_1917.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/makuszynski_szalenstwa_1940.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/marrene_bozek_1871.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/marrene_mezowie_1875.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/marrene_roza_1872.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/mniszek_gehenna_1914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/mniszek_ordynat_1910.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/mniszek_tredowata_1909.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/mostowicz_hanki_1939.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/mostowicz_kariera_1932.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/mostowicz_murek_1936.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/nalkowska_granica_1935.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/nalkowska_kobiety_1906.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/nalkowska_romans_1923.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/orzeszkowa_gloria_1910.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/orzeszkowa_meir_1878.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/orzeszkowa_niemnem_1888.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/prus_emancypantki_1894.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/prus_faraon_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/prus_lalka_1890.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/reymont_chlopi_1908.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/reymont_komediantka_1896.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/reymont_obiecana_1899.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/rodziewicz_lato_1920.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/rodziewicz_miedzy_1890.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/rodziewicz_straszny_1887.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/samozwaniec_ustach_1922.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/sienkiewicz_ogniem_1884.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/sienkiewicz_quo_1896.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/sienkiewicz_rodzina_1894.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/swietochowski_drygalowie_1914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/swietochowski_prawdy_1888.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/swietochowski_twinko_1936.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/sygietynski_calvados_1884.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/sygietynski_ogien_1918.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/sygietynski_wysadzony_1891.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zapolska_kaska_1888.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zapolska_smierc_1911.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zapolska_tagiejew_1905.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zarzycka_dzikuska_1927.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zarzycka_irka_1931.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zarzycka_wiatr_1934.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zeromski_bezdomni_1899.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zeromski_przedwiosnie_1924.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zeromski_syzyfowe_1897.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zulawski_laus_1914.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zulawski_srebrnym_1903.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../books/zulawski_zwyciezca_1910.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reader.py" afterPath="$PROJECT_DIR$/reader.py" />
+    </list>
     <ignored path="text_classifier.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +227,8 @@
       <file leaf-file-name="reader.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -52,6 +255,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -66,7 +272,7 @@
     <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -302,15 +508,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1932" height="1056" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1932" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24686848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28118393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28118393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -383,8 +589,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
